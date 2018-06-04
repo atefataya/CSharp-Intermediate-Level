@@ -25,9 +25,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavourComposition", "Favour
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesModifier", "AccesModifier\AccesModifier.csproj", "{C5C6C274-0C2A-4C63-A566-9C0536D30704}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "Amazon\Amazon.csproj", "{6D2E8339-894F-4C39-86A0-8748E67D017A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Amazon", "Amazon\Amazon.csproj", "{6D2E8339-894F-4C39-86A0-8748E67D017A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsAndInterfaces", "ConstructorsAndInterfaces\ConstructorsAndInterfaces.csproj", "{93CEED32-BE69-411D-9AA0-79D066DB93F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpcastingDowncasting", "UpcastingDowncasting\UpcastingDowncasting.csproj", "{45BA3791-022C-4D51-B8B8-75D4355494E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{93CEED32-BE69-411D-9AA0-79D066DB93F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93CEED32-BE69-411D-9AA0-79D066DB93F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93CEED32-BE69-411D-9AA0-79D066DB93F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BA3791-022C-4D51-B8B8-75D4355494E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BA3791-022C-4D51-B8B8-75D4355494E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BA3791-022C-4D51-B8B8-75D4355494E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BA3791-022C-4D51-B8B8-75D4355494E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
