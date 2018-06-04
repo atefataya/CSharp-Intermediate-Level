@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,13 @@ namespace BoxingUnboxing
     {
         static void Main(string[] args)
         {
+            var list = new ArrayList();
+            list.Add(1);
+            list.Add("string");
+            list.Add(DateTime.Today);
+
+            var anotherList = new List<int>();
+            
 
         }
     }
